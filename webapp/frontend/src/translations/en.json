@@ -1,0 +1,67 @@
+{
+  "home": {
+    "title": "How It Works",
+    "subTitle": "This study explores how sensory preferences, personality traits, and activity interests can help form compatible groups for carrying out group activities. Your participation contributes to research at the University of XYZ on inclusive group formation. Please complete the following 3 short tests:",
+    "button": "Start the tests ->",
+    "spq": {
+      "title": "1. SPQ — Sensory Profile",
+      "desc": "A questionnaire that measures how sensitive you are to different types of sensory input — such as light, sound, taste, smell, and touch. Takes approximately 5–10 minutes."
+    },
+    "bigF": {
+      "title": "2. Big Five — Personality",
+      "desc": "A personality assessment covering five core dimensions: openness, conscientiousness, extraversion, agreeableness, and neuroticism. Takes approximately 5–10 minutes."
+    },
+    "activityValuation": {
+      "title": "3. Activity Evaluation",
+      "desc": "Browse and select group activities you enjoy from a list proposed by the system, then rate them. This helps us understand your preferences and explore how compatible groups can be formed around shared interests. Takes approximately 10–15 minutes."
+    }
+  },
+  "spq": {
+    "buttons": ["Strongly Disagree", "Slightly Disagree", "Slightly Agree", "Strongly Agree"]
+  },
+  "bigF": {
+    "buttons": ["Strongly Disagree", "Slightly Disagree", "Neutral", "Slightly Agree", "Strongly Agree"]
+  },
+  "activity": {
+    "buttons": ["1", "2", "3", "4", "5"]
+  },
+  "activityValuation": {
+    "buttons": ["1", "2", "3", "4", "5"],
+    "title": "We ask you to select three group activities that you like by clicking on them. You can filter them using the “Select category” dropdown menu",
+    "BIGF": "Participants' Personality",
+    "SPQ": "Participants' sensory sensitivities"
+  },
+  "SPQChart": {
+    "vision": "Vision",
+    "hearing": "Hearing",
+    "taste": "Taste",
+    "smell": "Smell",
+    "touch": "Touch",
+    "leftTitle": "Activity",
+    "rightTitle": "Rate this activity:",
+    "evaluationTitle": "Activity sensory profile (Indicates the extent to which sensory stimuli are present during the activity)",
+    "evaluationSubtitle": "(describes how much the senses are engaged during the activity)",
+    "evaluationDescription": "The length of each bar represents the level of sensory engagement for that specific sense. A longer bar means the sense is more actively used in the activity.",
+    "explanationTitle": "How to read the chart"
+  },
+  "navbar": {
+    "spq": "Step 1",
+    "bigF": "Step 2",
+    "activity_valuation": "Step 3"
+  },
+  "error": {
+    "message": "Oops! Something went wrong."
+  },
+  "endTest": {
+    "title": "Thank you for completing the survey!",
+    "button": "Return to Prolific",
+    "subTitle": "Your response has been successfully recorded.",
+    "completionBefore": "Your completion code is:",
+    "completionAfter": ", copy this code or click the button"
+  },
+  "attentionChecks": {
+    "text": "Research quality check: please select \"#\" for this question.",
+    "fourOptions": ["Strongly Disagree", "Slightly Disagree", "Slightly Agree", "Strongly Agree"],
+    "fiveOptions": ["Strongly Disagree", "Slightly Disagree", "Neutral", "Slightly Agree", "Strongly Agree"]
+  }
+}

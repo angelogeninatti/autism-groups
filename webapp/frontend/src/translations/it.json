@@ -1,0 +1,67 @@
+{
+  "home": {
+    "title": "Come Funziona",
+    "subTitle": "Questo studio esplora come le preferenze sensoriali, i tratti della personalità e gli interessi per le attività possano contribuire a formare gruppi compatibili per svolgere attività di gruppo. La tua partecipazione contribuisce alla ricerca dell'Università di XYZ sulla formazione di gruppi inclusivi. Completa i seguenti 3 brevi test:",
+    "button": "Inizia i test ->",
+    "spq": {
+      "title": "1. SPQ — Profilo Sensoriale",
+      "desc": "Un questionario che misura quanto sei sensibile a diversi tipi di stimoli sensoriali — come luce, suono, gusto, olfatto e tatto. Richiede circa 5–10 minuti."
+    },
+    "bigF": {
+      "title": "2. Big Five — Personalità",
+      "desc": "Una valutazione della personalità che analizza cinque dimensioni fondamentali: apertura mentale, coscienziosità, estroversione, amicalità e nevroticismo. Richiede circa 5–10 minuti."
+    },
+    "activityValuation": {
+      "title": "3. Valutazione delle Attività",
+      "desc": "Esplora e seleziona le attività di gruppo che ti piacciono da una lista proposta dal sistema, poi valutale. Questo ci aiuta a comprendere le tue preferenze e a esplorare come formare gruppi compatibili attorno a interessi condivisi. Richiede circa 10–15 minuti."
+    }
+  },
+  "spq": {
+    "buttons": ["Fortemente in disaccordo", "Disaccordo", "D'accordo", "Fortemente d'accordo"]
+  },
+  "bigF": {
+    "buttons": ["Fortemente in disaccordo", "Disaccordo", "Indifferente", "D'accordo", "Fortemente d'accordo"]
+  },
+  "activity": {
+    "buttons": ["1", "2", "3", "4", "5"]
+  },
+  "activityValuation": {
+    "buttons": ["1", "2", "3", "4", "5"],
+    "title": "Ti chiediamo di selezionare  tre attività di gruppo che ti piacciono cliccandoci sopra. Puoi filtrarle utilizzando il menu a tendina “Seleziona categoria”",
+    "BIGF": "Personalità dei partecipanti",
+    "SPQ": "Sensibilità sensoriali dei partecipanti"
+  },
+  "SPQChart": {
+    "vision": "Vista",
+    "hearing": "Udito",
+    "taste": "Gusto",
+    "smell": "Olfatto",
+    "touch": "Tatto",
+    "leftTitle": "Attività",
+    "rightTitle": "Valuta questa attività:",
+    "evaluationTitle": "Profilo sensoriale dell'attività (Indica in che misura gli stimoli sensoriali sono presenti durante l'attività)",
+    "evaluationSubtitle": "(descrive quanto i sensi vengono coinvolti durante l'esecuzione dell'attività)",
+    "evaluationDescription": "La lunghezza di ogni barra rappresenta il livello di coinvolgimento sensoriale per quel senso specifico. Una barra più lunga indica che il senso è utilizzato in modo più attivo durante l'attività.",
+    "explanationTitle": "Come leggere il grafico"
+  },
+  "navbar": {
+    "spq": "Passo 1",
+    "bigF": "Passo 2",
+    "activity_valuation": "Passo 3"
+  },
+  "error": {
+    "message": "Oops! Qualcosa è andato storto."
+  },
+  "endTest": {
+    "title": "Grazie per aver completato il sondaggio!",
+    "button": "Torna a Prolific",
+    "subTitle": "Il tuo contributo è stato registrato con successo.",
+    "completionBefore": "Il tuo codice di completamento è:",
+    "completionAfter": ", copia questo codice o clicca sul bottone"
+  },
+  "attentionChecks": {
+    "text": "Controllo qualità dell'esperimento: per favore seleziona \"#\" per questa domanda.",
+    "fourOptions": ["Fortemente in disaccordo", "Disaccordo", "D'accordo", "Fortemente d'accordo"],
+    "fiveOptions": ["Fortemente in disaccordo", "Disaccordo", "Indifferente", "D'accordo", "Fortemente d'accordo"]
+  }
+}
